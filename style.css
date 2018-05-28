@@ -1,0 +1,31 @@
+body, html {
+    height: 100%;
+}
+
+.container { 
+	margin-top: 200px;
+ }
+.startup { 
+    /* The image used */
+    background-image: url("header.jpg");
+
+    /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+hr { 
+	max-width: 150px;
+  	border-width: 3px;
+  	border-color: #F05F44; 
+  	margin-bottom: 50px;	
+ }
+
+.btn { 
+	margin-top: 250px;
+ }
+
